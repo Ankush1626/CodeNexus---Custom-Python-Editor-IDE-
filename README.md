@@ -71,3 +71,12 @@ An advanced Python code editor built with PyQt5 and QScintilla modules of Python
 **- File Dialogs:**
 
     Easy file opening and saving through dialog interfaces.
+
+# Dislaimer
+
+<div align="center">
+This code was not originally developed by me. I learned it from a tutorial by the channel Flin Code on Youtube and hold no copyright over this code or its related files.
+<br/>
+PS - I did not just copy and paste the code. Instead, I understood it and then rewrote the entire code from scratch, also I added some more features of my own.
+</div>
+
