@@ -2,7 +2,25 @@
 
 An advanced Python code editor built with PyQt5 and QScintilla modules of Python, featuring intelligent auto-completion, syntax highlighting, and robust file management. This editor is designed for seamless coding, supporting multiple tabs,running code and efficient shortcuts, making it an ideal choice for developers seeking a powerful and customizable coding environment.
 
+# Screenshots
 
+## Editor Screen
+
+<div align="center">
+<img src="https://github.com/Ankush1626/CodeNexus---Custom-Python-Editor-IDE-/blob/main/screenshots/Screenshot%202024-09-21%20181233.png" align="center" style="width: 50%" />
+</div>  
+
+## Code Suggestions
+
+<div align="center">
+<img src="https://github.com/Ankush1626/CodeNexus---Custom-Python-Editor-IDE-/blob/main/screenshots/Screenshot%202024-09-21%20181326.png" align="center" style="width: 50%" />
+</div>  
+
+## Run Code
+
+<div align="center">
+<img src="https://github.com/Ankush1626/CodeNexus---Custom-Python-Editor-IDE-/blob/main/screenshots/Screenshot%202024-09-21%20181507.png" align="center" style="width: 50%" />
+</div>  
 
 # Features
 
