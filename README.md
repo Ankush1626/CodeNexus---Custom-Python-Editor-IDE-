@@ -7,19 +7,19 @@ An advanced Python code editor built with PyQt5 and QScintilla modules of Python
 ## Editor Screen
 
 <div align="center">
-<img src="https://github.com/Ankush1626/CodeNexus---Custom-Python-Editor-IDE-/blob/main/screenshots/Screenshot%202024-09-21%20181233.png" align="center" style="width: 50%" />
+<img src="https://github.com/Ankush1626/CodeNexus---Custom-Python-Editor-IDE-/blob/main/screenshots/Screenshot%202024-09-21%20181233.png" align="center" style="width: 100%" />
 </div>  
 
 ## Code Suggestions
 
 <div align="center">
-<img src="https://github.com/Ankush1626/CodeNexus---Custom-Python-Editor-IDE-/blob/main/screenshots/Screenshot%202024-09-21%20181326.png" align="center" style="width: 50%" />
+<img src="https://github.com/Ankush1626/CodeNexus---Custom-Python-Editor-IDE-/blob/main/screenshots/Screenshot%202024-09-21%20181326.png" align="center" style="width: 100%" />
 </div>  
 
 ## Run Code
 
 <div align="center">
-<img src="https://github.com/Ankush1626/CodeNexus---Custom-Python-Editor-IDE-/blob/main/screenshots/Screenshot%202024-09-21%20181507.png" align="center" style="width: 50%" />
+<img src="https://github.com/Ankush1626/CodeNexus---Custom-Python-Editor-IDE-/blob/main/screenshots/Screenshot%202024-09-21%20181507.png" align="center" style="width: 100%" />
 </div>  
 
 # Features
