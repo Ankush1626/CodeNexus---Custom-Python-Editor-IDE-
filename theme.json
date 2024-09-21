@@ -1,0 +1,104 @@
+{
+    "theme": {
+        "name": "default-dark",
+        "version": "1.0",
+        "syntax": [
+            {
+                "default": {
+                    "color": "#abb2bf",
+                    "paper-color": "#1f1f1f",
+                    "font": { 
+                        "family": "Consolas",
+                        "font-size": 14,
+                        "font-weight": "bold",
+                        "italic": false
+                    }
+                }
+            },
+            {
+                "keyword": {
+                    "color": "#c678dd",
+                    "paper-color": "#1f1f1f",
+                    "font": { 
+                        "family": "Consolas",
+                        "font-size": 14,
+                        "font-weight": "bold",
+                        "italic": false
+                    }
+                }
+            },
+            {
+                "classes": {
+                    "color": "#C68F55",
+                    "paper-color": "#1f1f1f",
+                    "font": { 
+                        "family": "Consolas",
+                        "font-size": 14,
+                        "font-weight": "bold",
+                        "italic": false
+                    }
+                }
+            },
+            {
+                "functions": {
+                    "color": "#61afd1",
+                    "paper-color": "#1f1f1f",
+                    "font": { 
+                        "family": "Consolas",
+                        "font-size": 14,
+                        "font-weight": "bold",
+                        "italic": false
+                    }
+                }
+            },
+            {
+                "function_def": {
+                    "color": "#61afd1",
+                    "paper-color": "#1f1f1f",
+                    "font": { 
+                        "family": "Consolas",
+                        "font-size": 14,
+                        "font-weight": "bold",
+                        "italic": true
+                    }
+                }
+            },
+            {
+                "string": {
+                    "color": "#bec26d",
+                    "paper-color": "#1f1f1f"
+                }
+            },
+            {
+                "types": {
+                    "color": "#44c9ae",
+                    "paper-color": "#1f1f1f"
+                }
+            },
+            {
+                "keyargs": {
+                    "color": "#c678dd",
+                    "paper-color": "#1f1f1f"
+                }
+            },
+            {
+                "brackets": {
+                    "color": "#c678dd",
+                    "paper-color": "#1f1f1f"
+                }
+            },
+            {
+                "comments": {
+                    "color": "#6bad51",
+                    "paper-color": "#1f1f1f"
+                }
+            },
+            {
+                "constants": {
+                    "color": "#c4792d",
+                    "paper-color": "#1f1f1f"
+                }
+            }
+        ]
+    }
+}
