@@ -86,7 +86,7 @@ class MainWindow(QMainWindow):
         file_menu.addSeparator()
 
         run_action = file_menu.addAction("Run")
-        save_as.setShortcut("Ctrl+R")
+        run_action.setShortcut("Ctrl+R")
         run_action.triggered.connect(self.run_current_file)  # Connect to the run function
 
         file_menu.addSeparator()
