@@ -326,10 +326,24 @@ class MainWindow(QMainWindow):
         if current_index != -1:
             current_editor = self.tab_view.widget(current_index)
             if isinstance(current_editor, Editor):
+                
+                # Check if the current file has unsaved changes
+                if current_editor.current_file_changed:
+                    # Show save dialog if there are unsaved changes
+                    dialog = self.show_dialog(
+                        "Save File", "Do you want to save the changes before running the file?"
+                    )
+                    if dialog == QMessageBox.Yes:
+                        self.save_file()
+                    else:
+                        return  # If user chooses not to save, do not run the file
+
+                # After saving, run the code
                 current_editor.run_code()  # Call the run_code method from the editor
+            else:
+                QMessageBox.warning(self, "No Editor", "This tab is not an editor instance.")
         else:
             QMessageBox.warning(self, "No File", "No file is open to run.")
-
 
     def close_tab(self, index):
         editor: Editor = self.tab_view.currentWidget()
