@@ -62,6 +62,8 @@ An advanced Python code editor built with PyQt5 and QScintilla modules of Python
 
     Ctrl + S: Save file
 
+    Ctrl + Shift + S: Save file As
+ 
     Ctrl + W: Close tab
 
     Ctrl + Enter: Insert newline and move to the next line
