@@ -194,7 +194,7 @@ class Editor(QsciScintilla):
         if self.path is not None:
             # Save the file if it has unsaved changes
             if self.current_file_changed:
-                self.save_file()
+                self.main_window.save_file()
 
             file_path = str(self.path)
             folder_path = os.path.dirname(file_path)  # Get the folder containing the file
