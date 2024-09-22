@@ -22,7 +22,7 @@ class NeutronLexer(QsciLexerCustom):
         self.language_name = language_name
         self.theme_json = None
         if theme is None:
-            self.theme = "./theme.json"
+            self.theme = "./src/theme.json"
         else:
             self.theme = theme
 
