@@ -3,5 +3,7 @@
     <file>close-icon.svg</file>
     <file>folder-icon-blue.svg</file>
     <file>search-icon.svg</file>
+    <file>run.svg</file>
+    <file>icon.svg</file>
 </qresource>
 </RCC>
