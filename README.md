@@ -80,7 +80,7 @@ An advanced Python code editor built with PyQt5 and QScintilla modules of Python
 
 **- Commenting:**
 
-    Easily toggle comments on selected lines or the current line by selecting text and pressing Ctrl + /.
+    Easily toggle comments on selected lines or the current line by selecting text and pressing Ctrl + /
 
 **- User-Friendly Interface:**
 
